@@ -1,0 +1,10 @@
+{
+    "Name": "NetworkChest",
+    "Author": "mavifindsbugs",
+    "Version": "0.0.1",
+    "Description": "A mod to show all items from all chests on the farm in Stardew Valley.",
+    "UniqueID": "mavifindsbugs.NetworkChest",
+    "EntryDll": "NetworkChest.dll",
+    "MinimumApiVersion": "3.0.0",
+    "UpdateKeys": []
+}
